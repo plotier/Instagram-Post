@@ -1,0 +1,13 @@
+.whole{
+    height: 600px;
+    width: 400px;
+    background: azure;
+    margin: auto;
+    margin-top:100px;
+}
+.pic{
+    background-image: url("https://i.pinimg.com/originals/4d/b2/f1/4db2f16b9dffc4cb6ece422a8431dfbe.jpg");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+}
