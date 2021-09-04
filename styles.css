@@ -11,3 +11,21 @@
     width: 100%;
     background-size: cover;
 }
+.icon{
+    float: right;
+}
+.post{
+    display: flex;
+    height: 50px;
+}
+.settings{
+    margin-left: 290px;
+    margin-top: 10px;
+}
+.ht{
+    margin-top: 10px;
+}
+.nav{
+    margin-top: 10px;
+    margin-left: 7px;
+}
